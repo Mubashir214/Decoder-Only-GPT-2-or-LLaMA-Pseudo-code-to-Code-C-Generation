@@ -6,7 +6,7 @@ warnings.filterwarnings('ignore')
 
 # Set page configuration
 st.set_page_config(
-    page_title="Pseudo-code to Python Converter",
+    page_title="Pseudo-code to C++ Converter",
     page_icon="🐍",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -288,3 +288,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
